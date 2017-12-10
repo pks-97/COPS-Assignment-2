@@ -1,0 +1,47 @@
+#aus{
+	text-align: center;
+}
+#aus2{
+	text-align: center;
+}
+
+.jumbotron{
+	background-image: url("https://www.cruisewhitsundays.com/media/1787/hamilton-island-beach.jpg?maxwidth=1280");
+}
+.navbar-default{
+	background: #42e2f4;
+}
+.navbar-fixed-top .navbar-nav>li>a {
+	color:white;
+}
+.navbar-fixed-top .navbar-brand{
+	color:white;
+}
+.pic{
+	background: #42e2f4;
+	width:445px;
+	height:250px;
+	text-align: center;
+	line-height: 250px;
+}
+#fo{
+	font-family: 'Abril Fatface', cursive;
+}
+#br{
+	font-family: 'Bungee', cursive;
+}
+.ji{
+	font-family: 'Bungee', cursive;
+}
+h3{
+	font-family: 'Pacifico', cursive;
+}
+.para{
+	font-family: 'Anton', sans-serif;
+}
+.ui{
+	font-family: 'Abril Fatface', cursive;
+}
+.ty{
+	font-family: 'Anton', sans-serif;
+}
