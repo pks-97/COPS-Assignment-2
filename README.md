@@ -8,3 +8,4 @@ Built With:
 1.HTML
 2.CSS
 3.JavaScript
+The Site is hosted at https://pks-97.github.io/COPS-Assignment-2/
