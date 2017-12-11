@@ -7,6 +7,7 @@
 
 .jumbotron{
 	background-image: url("https://www.cruisewhitsundays.com/media/1787/hamilton-island-beach.jpg?maxwidth=1280");
+	height:100%;
 }
 .navbar-default{
 	background: #42e2f4;
